@@ -6,7 +6,7 @@
     "Fat": 0,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капуста квашеная",
@@ -15,7 +15,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капуста цветная",
@@ -24,7 +24,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лук репчатый",
@@ -33,7 +33,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лук зелёный",
@@ -42,7 +42,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Морковь столовая",
@@ -51,7 +51,7 @@
     "Fat": 0,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Огурцы свежие",
@@ -60,7 +60,7 @@
     "Fat": 0,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свёкла столовая",
@@ -69,7 +69,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Томаты красные",
@@ -78,7 +78,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Баклажанная икра",
@@ -87,7 +87,7 @@
     "Fat": 13,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кабачковая икра",
@@ -96,7 +96,7 @@
     "Fat": 9,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кабачки жареные",
@@ -105,7 +105,7 @@
     "Fat": 6,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капуста белокочанная жареная",
@@ -114,7 +114,7 @@
     "Fat": 2,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Картошка жареная",
@@ -123,7 +123,7 @@
     "Fat": 9,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Абрикосы",
@@ -132,7 +132,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Алыча",
@@ -141,7 +141,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ананас",
@@ -150,7 +150,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бананы",
@@ -159,7 +159,7 @@
     "Fat": 0,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вишня",
@@ -168,7 +168,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Груша",
@@ -177,7 +177,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Персики",
@@ -186,7 +186,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Слива",
@@ -195,7 +195,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хурма",
@@ -204,7 +204,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Черешня",
@@ -213,7 +213,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яблоко",
@@ -222,7 +222,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Апельсины",
@@ -231,7 +231,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грейпфрут",
@@ -240,7 +240,7 @@
     "Fat": 0,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лимон",
@@ -249,7 +249,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Черника",
@@ -258,7 +258,7 @@
     "Fat": 0,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Малина",
@@ -267,7 +267,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Клубника",
@@ -276,7 +276,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Облепиха",
@@ -285,7 +285,7 @@
     "Fat": 4,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ежевика",
@@ -294,7 +294,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Смородина черная",
@@ -303,7 +303,7 @@
     "Fat": 0,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Клюква",
@@ -312,7 +312,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Брусника",
@@ -321,7 +321,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Голубика",
@@ -330,7 +330,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кизил",
@@ -339,7 +339,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шиповник",
@@ -348,7 +348,7 @@
     "Fat": 0,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кумкват",
@@ -357,7 +357,7 @@
     "Fat": 0,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Виноград",
@@ -366,7 +366,7 @@
     "Fat": 0,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Петрушка",
@@ -375,7 +375,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Укроп",
@@ -384,7 +384,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шпинат",
@@ -393,7 +393,7 @@
     "Fat": 0,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сельдерей",
@@ -402,7 +402,7 @@
     "Fat": 0,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Руккола",
@@ -411,7 +411,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Мята свежая",
@@ -420,7 +420,7 @@
     "Fat": 0,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Листовой салат",
@@ -429,7 +429,7 @@
     "Fat": 0,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кинза свежая",
@@ -438,7 +438,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Базилик свежий",
@@ -447,7 +447,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Розмарин",
@@ -456,7 +456,7 @@
     "Fat": 6,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тимьян",
@@ -465,7 +465,7 @@
     "Fat": 6,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Эстрагон",
@@ -474,7 +474,7 @@
     "Fat": 0,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кресс-салат",
@@ -483,7 +483,7 @@
     "Fat": 0,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лук зеленый",
@@ -492,7 +492,7 @@
     "Fat": 0,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свекла (ботва)",
@@ -501,7 +501,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Белые грибы свежие",
@@ -510,7 +510,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Белые грибы сушеные",
@@ -519,7 +519,7 @@
     "Fat": 6,
     "Carbohydrates": 31,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Подберезовики свежие",
@@ -528,7 +528,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Подберезовики сушеные",
@@ -537,7 +537,7 @@
     "Fat": 9,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лисички свежие",
@@ -546,7 +546,7 @@
     "Fat": 1,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лисички сушеные",
@@ -555,7 +555,7 @@
     "Fat": 7,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Маслята свежие",
@@ -564,7 +564,7 @@
     "Fat": 0,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Маслята сушеные",
@@ -573,7 +573,7 @@
     "Fat": 9,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Опята свежие",
@@ -582,7 +582,7 @@
     "Fat": 1,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Опята сушеные",
@@ -591,7 +591,7 @@
     "Fat": 9,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Подосиновики свежие",
@@ -600,7 +600,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Подосиновики сушеные",
@@ -609,7 +609,7 @@
     "Fat": 5,
     "Carbohydrates": 33,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рыжики свежие",
@@ -618,7 +618,7 @@
     "Fat": 0,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сморчки свежие",
@@ -627,7 +627,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сыроежки свежие",
@@ -636,7 +636,7 @@
     "Fat": 0,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиная вырезка",
@@ -645,7 +645,7 @@
     "Fat": 7,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиная грудинка без кости",
@@ -654,7 +654,7 @@
     "Fat": 53,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиная лопатка",
@@ -663,7 +663,7 @@
     "Fat": 21,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиная печень",
@@ -672,7 +672,7 @@
     "Fat": 3,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиная шейка",
@@ -681,7 +681,7 @@
     "Fat": 31,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиная щека",
@@ -690,7 +690,7 @@
     "Fat": 69,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиная мякоть",
@@ -699,7 +699,7 @@
     "Fat": 21,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиной балык",
@@ -708,7 +708,7 @@
     "Fat": 24,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиной окорок",
@@ -717,7 +717,7 @@
     "Fat": 21,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиной фарш",
@@ -726,7 +726,7 @@
     "Fat": 12,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиной язык",
@@ -735,7 +735,7 @@
     "Fat": 11,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиные легкие",
@@ -744,7 +744,7 @@
     "Fat": 2,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свиные почки",
@@ -753,7 +753,7 @@
     "Fat": 3,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Постная свинина",
@@ -762,7 +762,7 @@
     "Fat": 7,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Икра кеты",
@@ -771,7 +771,7 @@
     "Fat": 13,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Икра минтая",
@@ -780,7 +780,7 @@
     "Fat": 1,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Икра осетровая",
@@ -789,7 +789,7 @@
     "Fat": 9,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кальмар отварной",
@@ -798,7 +798,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Креветки",
@@ -807,7 +807,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лещ отварной",
@@ -816,7 +816,7 @@
     "Fat": 5,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Минтай жареный",
@@ -825,7 +825,7 @@
     "Fat": 5,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Мидии отварные",
@@ -834,7 +834,7 @@
     "Fat": 1,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Окунь морской жареный",
@@ -843,7 +843,7 @@
     "Fat": 9,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Палтус отварной",
@@ -852,7 +852,7 @@
     "Fat": 18,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сайра в масле бланшированная консервированная",
@@ -861,7 +861,7 @@
     "Fat": 23,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салака горячего копчения",
@@ -870,7 +870,7 @@
     "Fat": 6,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сардина отварная",
@@ -879,7 +879,7 @@
     "Fat": 11,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сельдь копченая",
@@ -888,7 +888,7 @@
     "Fat": 19,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Куриное яйцо сырое",
@@ -897,7 +897,7 @@
     "Fat": 10,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Куриное яйцо вареное всмятку",
@@ -906,7 +906,7 @@
     "Fat": 11,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Куриное яйцо вареное вкрутую",
@@ -915,7 +915,7 @@
     "Fat": 11,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Куриное яйцо жареное",
@@ -924,7 +924,7 @@
     "Fat": 14,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Омлет",
@@ -933,7 +933,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яичница глазунья",
@@ -942,7 +942,7 @@
     "Fat": 19,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яичный порошок",
@@ -951,7 +951,7 @@
     "Fat": 4,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яичный белок куриный, сушеный",
@@ -960,7 +960,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яичный желток куриный",
@@ -969,7 +969,7 @@
     "Fat": 26,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яйцо перепелиное сырое",
@@ -978,7 +978,7 @@
     "Fat": 13,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яйцо утиное сырое",
@@ -987,7 +987,7 @@
     "Fat": 14,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яйцо гусиное сырое",
@@ -996,7 +996,7 @@
     "Fat": 13,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яйцо индюшачье сырое",
@@ -1005,7 +1005,7 @@
     "Fat": 11,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яйцо страусиное сырое",
@@ -1014,7 +1014,7 @@
     "Fat": 11,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Молоко коровье пастеризованное",
@@ -1023,7 +1023,7 @@
     "Fat": 3,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сыр российский",
@@ -1032,7 +1032,7 @@
     "Fat": 29,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сыр чеддер",
@@ -1041,7 +1041,7 @@
     "Fat": 30,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ацидофилин 3,2% жирности",
@@ -1050,7 +1050,7 @@
     "Fat": 3,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ацидофилин 1% жирности",
@@ -1059,7 +1059,7 @@
     "Fat": 1,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Йогурт 3,2% жирности",
@@ -1068,7 +1068,7 @@
     "Fat": 3,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Йогурт 1,5% жирности",
@@ -1077,7 +1077,7 @@
     "Fat": 5,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кефир 3,2% жирности",
@@ -1086,7 +1086,7 @@
     "Fat": 4,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кефир 1% жирности",
@@ -1095,7 +1095,7 @@
     "Fat": 1,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог 5% жирности",
@@ -1104,7 +1104,7 @@
     "Fat": 5,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог 0% жирности",
@@ -1113,7 +1113,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сметана 20% жирности",
@@ -1122,7 +1122,7 @@
     "Fat": 19,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сливки 10% жирности",
@@ -1131,7 +1131,7 @@
     "Fat": 10,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сгущенное молоко с сахаром",
@@ -1140,7 +1140,7 @@
     "Fat": 8,
     "Carbohydrates": 55,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пармезан",
@@ -1149,7 +1149,7 @@
     "Fat": 28,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Моцарелла",
@@ -1158,7 +1158,7 @@
     "Fat": 24,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Дор Блю",
@@ -1167,7 +1167,7 @@
     "Fat": 30,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чеддер",
@@ -1176,7 +1176,7 @@
     "Fat": 32,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Камамбер",
@@ -1185,7 +1185,7 @@
     "Fat": 23,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Российский сыр",
@@ -1194,7 +1194,7 @@
     "Fat": 29,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Маскарпоне",
@@ -1203,7 +1203,7 @@
     "Fat": 41,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Швейцарский сыр",
@@ -1212,7 +1212,7 @@
     "Fat": 31,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Стилтон",
@@ -1221,7 +1221,7 @@
     "Fat": 28,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Адыгейский сыр",
@@ -1230,7 +1230,7 @@
     "Fat": 14,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рикотта",
@@ -1239,7 +1239,7 @@
     "Fat": 13,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фета",
@@ -1248,7 +1248,7 @@
     "Fat": 23,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Эдам",
@@ -1257,7 +1257,7 @@
     "Fat": 26,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гауда",
@@ -1266,7 +1266,7 @@
     "Fat": 27,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог жирный 18% жирности",
@@ -1275,7 +1275,7 @@
     "Fat": 18,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог полужирный 9% жирности",
@@ -1284,7 +1284,7 @@
     "Fat": 9,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог нежирный 5% жирности",
@@ -1293,7 +1293,7 @@
     "Fat": 5,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог 2% жирности",
@@ -1302,7 +1302,7 @@
     "Fat": 2,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог обезжиренный",
@@ -1311,7 +1311,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожная запеканка",
@@ -1320,7 +1320,7 @@
     "Fat": 4,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожная запеканка с макаронами",
@@ -1329,7 +1329,7 @@
     "Fat": 9,
     "Carbohydrates": 27,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожники «Пряженые» (с морковью и сыром)",
@@ -1338,7 +1338,7 @@
     "Fat": 23,
     "Carbohydrates": 17,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожно-яблочная запеканка",
@@ -1347,7 +1347,7 @@
     "Fat": 3,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожно-яблочный пирог",
@@ -1356,7 +1356,7 @@
     "Fat": 6,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожные шарики с яблоками",
@@ -1365,7 +1365,7 @@
     "Fat": 23,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сочни творожные",
@@ -1374,7 +1374,7 @@
     "Fat": 9,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сочники с творогом",
@@ -1383,7 +1383,7 @@
     "Fat": 7,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сырники из творога",
@@ -1392,7 +1392,7 @@
     "Fat": 19,
     "Carbohydrates": 19,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творог «Столовый» 2% жирности",
@@ -1401,7 +1401,7 @@
     "Fat": 2,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гречневая крупа",
@@ -1410,7 +1410,7 @@
     "Fat": 2,
     "Carbohydrates": 61,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Овсяная крупа",
@@ -1419,7 +1419,7 @@
     "Fat": 6,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рис белый",
@@ -1428,7 +1428,7 @@
     "Fat": 1,
     "Carbohydrates": 71,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пшенная крупа",
@@ -1437,7 +1437,7 @@
     "Fat": 3,
     "Carbohydrates": 67,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Перловая крупа",
@@ -1446,7 +1446,7 @@
     "Fat": 1,
     "Carbohydrates": 67,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Манная крупа",
@@ -1455,7 +1455,7 @@
     "Fat": 1,
     "Carbohydrates": 68,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Булгур",
@@ -1464,7 +1464,7 @@
     "Fat": 1,
     "Carbohydrates": 75,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кукурузная крупа",
@@ -1473,7 +1473,7 @@
     "Fat": 1,
     "Carbohydrates": 72,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ячневая крупа",
@@ -1482,7 +1482,7 @@
     "Fat": 1,
     "Carbohydrates": 66,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Киноа",
@@ -1491,7 +1491,7 @@
     "Fat": 6,
     "Carbohydrates": 64,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рис бурый",
@@ -1500,7 +1500,7 @@
     "Fat": 1,
     "Carbohydrates": 72,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пшеничная крупа",
@@ -1509,7 +1509,7 @@
     "Fat": 1,
     "Carbohydrates": 70,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кукурузные хлопья",
@@ -1518,7 +1518,7 @@
     "Fat": 0,
     "Carbohydrates": 79,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гречневые хлопья",
@@ -1527,7 +1527,7 @@
     "Fat": 2,
     "Carbohydrates": 67,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Спагетти Barilla",
@@ -1536,7 +1536,7 @@
     "Fat": 1,
     "Carbohydrates": 72,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Спагетти Макфа",
@@ -1545,7 +1545,7 @@
     "Fat": 1,
     "Carbohydrates": 70,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Спагетти Щебекинские",
@@ -1554,7 +1554,7 @@
     "Fat": 1,
     "Carbohydrates": 72,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пенне Алла Аррабиата",
@@ -1563,7 +1563,7 @@
     "Fat": 3,
     "Carbohydrates": 26,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лапша Ролтон",
@@ -1572,7 +1572,7 @@
     "Fat": 20,
     "Carbohydrates": 56,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Макароны Молочные",
@@ -1581,7 +1581,7 @@
     "Fat": 2,
     "Carbohydrates": 67,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вермишель Myllyn Paras",
@@ -1590,7 +1590,7 @@
     "Fat": 1,
     "Carbohydrates": 71,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Макароны высшего сорта",
@@ -1599,7 +1599,7 @@
     "Fat": 1,
     "Carbohydrates": 69,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Макароны 1-го сорта",
@@ -1608,7 +1608,7 @@
     "Fat": 1,
     "Carbohydrates": 68,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яичные макароны",
@@ -1617,7 +1617,7 @@
     "Fat": 2,
     "Carbohydrates": 68,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вермишель Мивина",
@@ -1626,7 +1626,7 @@
     "Fat": 18,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шебекинские макароны",
@@ -1635,7 +1635,7 @@
     "Fat": 1,
     "Carbohydrates": 72,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Макароны Шебекинские",
@@ -1644,7 +1644,7 @@
     "Fat": 1,
     "Carbohydrates": 72,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Макароны Pasta Palmoni Форцелли широкий",
@@ -1653,7 +1653,7 @@
     "Fat": 1,
     "Carbohydrates": 71,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб белый",
@@ -1662,7 +1662,7 @@
     "Fat": 7,
     "Carbohydrates": 36,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб ржано-пшеничный",
@@ -1671,7 +1671,7 @@
     "Fat": 3,
     "Carbohydrates": 42,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб отрубной",
@@ -1680,7 +1680,7 @@
     "Fat": 4,
     "Carbohydrates": 52,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб бородинский",
@@ -1689,7 +1689,7 @@
     "Fat": 1,
     "Carbohydrates": 40,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб дарницкий",
@@ -1698,7 +1698,7 @@
     "Fat": 1,
     "Carbohydrates": 41,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб зерновой",
@@ -1707,7 +1707,7 @@
     "Fat": 1,
     "Carbohydrates": 43,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб ржаной",
@@ -1716,7 +1716,7 @@
     "Fat": 3,
     "Carbohydrates": 60,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб бездрожжевой",
@@ -1725,7 +1725,7 @@
     "Fat": 0,
     "Carbohydrates": 41,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб гречневый",
@@ -1734,7 +1734,7 @@
     "Fat": 2,
     "Carbohydrates": 45,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб овсяный",
@@ -1743,7 +1743,7 @@
     "Fat": 2,
     "Carbohydrates": 51,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб кукурузный",
@@ -1752,7 +1752,7 @@
     "Fat": 7,
     "Carbohydrates": 43,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб с семечками",
@@ -1761,7 +1761,7 @@
     "Fat": 10,
     "Carbohydrates": 43,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб с сухофруктами",
@@ -1770,7 +1770,7 @@
     "Fat": 4,
     "Carbohydrates": 43,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хлеб тостовый",
@@ -1779,7 +1779,7 @@
     "Fat": 3,
     "Carbohydrates": 52,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Арахис",
@@ -1788,7 +1788,7 @@
     "Fat": 45,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бразильский орех",
@@ -1797,7 +1797,7 @@
     "Fat": 66,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грецкий орех",
@@ -1806,7 +1806,7 @@
     "Fat": 65,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кедровые орехи",
@@ -1815,7 +1815,7 @@
     "Fat": 61,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кешью",
@@ -1824,7 +1824,7 @@
     "Fat": 43,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кокосовый орех",
@@ -1833,7 +1833,7 @@
     "Fat": 33,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кунжут",
@@ -1842,7 +1842,7 @@
     "Fat": 50,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Миндаль",
@@ -1851,7 +1851,7 @@
     "Fat": 49,
     "Carbohydrates": 21,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фисташки",
@@ -1860,7 +1860,7 @@
     "Fat": 45,
     "Carbohydrates": 27,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фундук",
@@ -1869,7 +1869,7 @@
     "Fat": 60,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Семена подсолнечника",
@@ -1878,7 +1878,7 @@
     "Fat": 51,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Семена тыквы",
@@ -1887,7 +1887,7 @@
     "Fat": 45,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Семена льна",
@@ -1896,7 +1896,7 @@
     "Fat": 42,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Семена чиа",
@@ -1905,7 +1905,7 @@
     "Fat": 30,
     "Carbohydrates": 42,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Семена кунжута",
@@ -1914,7 +1914,7 @@
     "Fat": 48,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Горох отварной",
@@ -1923,7 +1923,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль стручковая отварная",
@@ -1932,7 +1932,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чечевица отварная",
@@ -1941,7 +1941,7 @@
     "Fat": 0,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Нут отварной",
@@ -1950,7 +1950,7 @@
     "Fat": 2,
     "Carbohydrates": 27,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соя отварная",
@@ -1959,7 +1959,7 @@
     "Fat": 9,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Маш отварной",
@@ -1968,7 +1968,7 @@
     "Fat": 0,
     "Carbohydrates": 19,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль белая отварная",
@@ -1977,7 +1977,7 @@
     "Fat": 0,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль красная отварная",
@@ -1986,7 +1986,7 @@
     "Fat": 0,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль черная отварная",
@@ -1995,7 +1995,7 @@
     "Fat": 0,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль стручковая свежая",
@@ -2004,7 +2004,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Горох свежий",
@@ -2013,7 +2013,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чечевица красная отварная",
@@ -2022,7 +2022,7 @@
     "Fat": 0,
     "Carbohydrates": 17,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с фасолью и овощами",
@@ -2031,7 +2031,7 @@
     "Fat": 5,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп из чечевицы",
@@ -2040,7 +2040,7 @@
     "Fat": 3,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Апельсиновый сок",
@@ -2049,7 +2049,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грейпфрутовый сок",
@@ -2058,7 +2058,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яблочный сок",
@@ -2067,7 +2067,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вишневый сок",
@@ -2076,7 +2076,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грушевый сок",
@@ -2085,7 +2085,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гранатовый сок",
@@ -2094,7 +2094,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Персиковый сок",
@@ -2103,7 +2103,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ананасовый сок",
@@ -2112,7 +2112,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Морковный сок",
@@ -2121,7 +2121,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свекольный сок",
@@ -2130,7 +2130,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Томатный сок",
@@ -2139,7 +2139,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Арбузный сок",
@@ -2148,7 +2148,7 @@
     "Fat": 0,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грушевый нектар",
@@ -2157,7 +2157,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вишневый нектар",
@@ -2166,7 +2166,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грейпфрутовый нектар",
@@ -2175,7 +2175,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Морс брусничный",
@@ -2184,7 +2184,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Морс клюквенный",
@@ -2193,7 +2193,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Морс клубничный",
@@ -2202,7 +2202,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Морс из лесных ягод",
@@ -2211,7 +2211,7 @@
     "Fat": 0,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из абрикосов",
@@ -2220,7 +2220,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из айвы",
@@ -2229,7 +2229,7 @@
     "Fat": 0,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из вишни",
@@ -2238,7 +2238,7 @@
     "Fat": 0,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из груш",
@@ -2247,7 +2247,7 @@
     "Fat": 0,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из персиков",
@@ -2256,7 +2256,7 @@
     "Fat": 0,
     "Carbohydrates": 21,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из черешни",
@@ -2265,7 +2265,7 @@
     "Fat": 0,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из яблок",
@@ -2274,7 +2274,7 @@
     "Fat": 0,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из черной смородины",
@@ -2283,7 +2283,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из сухофруктов",
@@ -2292,7 +2292,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из мандаринов",
@@ -2301,7 +2301,7 @@
     "Fat": 0,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Компот из слив",
@@ -2310,7 +2310,7 @@
     "Fat": 0,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Минеральная вода Ессентуки",
@@ -2319,7 +2319,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Липецкая Росинка Минеральная Вода с Лимоном и Лаймом",
@@ -2328,7 +2328,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "КРЫМ Вода со Вкусом Лимона",
@@ -2337,7 +2337,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Карачинская Экстра-Лимонад",
@@ -2346,7 +2346,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лимонад (замороженный концентрат, белый, приготовленный на воде)",
@@ -2355,7 +2355,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лимонад с содой (шипучка)",
@@ -2364,7 +2364,7 @@
     "Fat": 0,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Минеральная вода Карачинская",
@@ -2373,7 +2373,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Минеральная вода Иркутская Лимонад",
@@ -2382,7 +2382,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лимонад (безалкогольный среднегазированный)",
@@ -2391,7 +2391,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вода газированная",
@@ -2400,7 +2400,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лимонад (среднегазированный)",
@@ -2409,7 +2409,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Черный чай (заваренный)",
@@ -2418,7 +2418,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Зеленый чай (заваренный)",
@@ -2427,7 +2427,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ромашковый чай (заваренный)",
@@ -2436,7 +2436,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Мятный чай (заваренный)",
@@ -2445,7 +2445,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай из шиповника (заваренный)",
@@ -2454,7 +2454,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай из липового цвета (заваренный)",
@@ -2463,7 +2463,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай из мелиссы (заваренный)",
@@ -2472,7 +2472,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай из зверобоя (заваренный)",
@@ -2481,7 +2481,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай из ромашки с медом и мятой (заваренный)",
@@ -2490,7 +2490,7 @@
     "Fat": 0,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай \"Горячий Мохито\" (заваренный)",
@@ -2499,7 +2499,7 @@
     "Fat": 0,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай \"Лимонный имбирь\" (заваренный)",
@@ -2508,7 +2508,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай \"Клубника-шалфей\" (заваренный)",
@@ -2517,7 +2517,7 @@
     "Fat": 0,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай с фейхоа (заваренный)",
@@ -2526,7 +2526,7 @@
     "Fat": 0,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чай пуэр (заваренный)",
@@ -2535,7 +2535,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе черный без сахара",
@@ -2544,7 +2544,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе черный с сахаром",
@@ -2553,7 +2553,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе с молоком",
@@ -2562,7 +2562,7 @@
     "Fat": 1,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе со сгущенным молоком",
@@ -2571,7 +2571,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе со сгущенным молоком и сахаром",
@@ -2580,7 +2580,7 @@
     "Fat": 13,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе растворимый сухой",
@@ -2589,7 +2589,7 @@
     "Fat": 3,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе жареный в зернах сухой",
@@ -2598,7 +2598,7 @@
     "Fat": 14,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофейный напиток",
@@ -2607,7 +2607,7 @@
     "Fat": 4,
     "Carbohydrates": 71,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Какао с молоком",
@@ -2616,7 +2616,7 @@
     "Fat": 2,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Какао с молоком сгущенным",
@@ -2625,7 +2625,7 @@
     "Fat": 2,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Какао порошок сухой",
@@ -2634,7 +2634,7 @@
     "Fat": 17,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Какао-напиток на молоке",
@@ -2643,7 +2643,7 @@
     "Fat": 3,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе по-ирландски",
@@ -2652,7 +2652,7 @@
     "Fat": 4,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе латте макиато",
@@ -2661,7 +2661,7 @@
     "Fat": 1,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Борщ классический",
@@ -2670,7 +2670,7 @@
     "Fat": 1,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Уха",
@@ -2679,7 +2679,7 @@
     "Fat": 1,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Овощной суп",
@@ -2688,7 +2688,7 @@
     "Fat": 1,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Солянка",
@@ -2697,7 +2697,7 @@
     "Fat": 8,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рассольник",
@@ -2706,7 +2706,7 @@
     "Fat": 1,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Окрошка с кефиром",
@@ -2715,7 +2715,7 @@
     "Fat": 2,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свекольник",
@@ -2724,7 +2724,7 @@
     "Fat": 1,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гороховый суп",
@@ -2733,7 +2733,7 @@
     "Fat": 2,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грибной суп",
@@ -2742,7 +2742,7 @@
     "Fat": 1,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Картофельный суп",
@@ -2751,7 +2751,7 @@
     "Fat": 1,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Луковый суп",
@@ -2760,7 +2760,7 @@
     "Fat": 2,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Зеленый борщ",
@@ -2769,7 +2769,7 @@
     "Fat": 1,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Щи",
@@ -2778,7 +2778,7 @@
     "Fat": 1,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рисовый грибной суп",
@@ -2787,7 +2787,7 @@
     "Fat": 2,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Солянка грибная",
@@ -2796,7 +2796,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Азу из баранины с овощами",
@@ -2805,7 +2805,7 @@
     "Fat": 14,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бефстроганов из говядины",
@@ -2814,7 +2814,7 @@
     "Fat": 11,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бифштекс",
@@ -2823,7 +2823,7 @@
     "Fat": 29,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Блины",
@@ -2832,7 +2832,7 @@
     "Fat": 12,
     "Carbohydrates": 26,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Картофельные вареники",
@@ -2841,7 +2841,7 @@
     "Fat": 3,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Зразы из картошки",
@@ -2850,7 +2850,7 @@
     "Fat": 3,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Куриные котлеты",
@@ -2859,7 +2859,7 @@
     "Fat": 10,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Отварное филе курицы",
@@ -2868,7 +2868,7 @@
     "Fat": 3,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Макароны из твердых сортов пшеницы с маслом",
@@ -2877,7 +2877,7 @@
     "Fat": 5,
     "Carbohydrates": 19,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рагу из овощей",
@@ -2886,7 +2886,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Окрошка на квасе",
@@ -2895,7 +2895,7 @@
     "Fat": 1,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пельмени из говядины и свинины",
@@ -2904,7 +2904,7 @@
     "Fat": 12,
     "Carbohydrates": 29,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Оливье с колбасой",
@@ -2913,7 +2913,7 @@
     "Fat": 16,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Селедка под шубой",
@@ -2922,7 +2922,7 @@
     "Fat": 17,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Мимоза",
@@ -2931,7 +2931,7 @@
     "Fat": 14,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Винегрет",
@@ -2940,7 +2940,7 @@
     "Fat": 4,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Нежность",
@@ -2949,7 +2949,7 @@
     "Fat": 8,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Столичный (мясной)",
@@ -2958,7 +2958,7 @@
     "Fat": 25,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Кремлевский",
@@ -2967,7 +2967,7 @@
     "Fat": 21,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Цезарь",
@@ -2976,7 +2976,7 @@
     "Fat": 16,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Греческий",
@@ -2985,7 +2985,7 @@
     "Fat": 17,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Русская закуска",
@@ -2994,7 +2994,7 @@
     "Fat": 2,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидоров, огурцов и перца",
@@ -3003,7 +3003,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидоров и огурцов со сметаной",
@@ -3012,7 +3012,7 @@
     "Fat": 4,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидоров и огурцов с растительным маслом",
@@ -3021,7 +3021,7 @@
     "Fat": 7,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидоров и огурцов с майонезом",
@@ -3030,7 +3030,7 @@
     "Fat": 15,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из редиса со сметаной",
@@ -3039,7 +3039,7 @@
     "Fat": 5,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Дарницкий хлеб подовый",
@@ -3048,7 +3048,7 @@
     "Fat": 1,
     "Carbohydrates": 43,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Дарницкий хлеб формовый",
@@ -3057,7 +3057,7 @@
     "Fat": 1,
     "Carbohydrates": 41,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Калач московский",
@@ -3066,7 +3066,7 @@
     "Fat": 1,
     "Carbohydrates": 51,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирожки печеные",
@@ -3075,7 +3075,7 @@
     "Fat": 7,
     "Carbohydrates": 37,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сдоба выборгская с маком",
@@ -3084,7 +3084,7 @@
     "Fat": 5,
     "Carbohydrates": 56,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сдоба выборгская с повидлом",
@@ -3093,7 +3093,7 @@
     "Fat": 4,
     "Carbohydrates": 57,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сдоба донская",
@@ -3102,7 +3102,7 @@
     "Fat": 5,
     "Carbohydrates": 52,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сдоба обыкновенная",
@@ -3111,7 +3111,7 @@
     "Fat": 5,
     "Carbohydrates": 51,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соломка сладкая",
@@ -3120,7 +3120,7 @@
     "Fat": 6,
     "Carbohydrates": 69,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сухари",
@@ -3129,7 +3129,7 @@
     "Fat": 9,
     "Carbohydrates": 65,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сушки новые",
@@ -3138,7 +3138,7 @@
     "Fat": 7,
     "Carbohydrates": 69,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сушки простые",
@@ -3147,7 +3147,7 @@
     "Fat": 1,
     "Carbohydrates": 68,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кулич пасхальный",
@@ -3156,7 +3156,7 @@
     "Fat": 15,
     "Carbohydrates": 43,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лаваш армянский",
@@ -3165,7 +3165,7 @@
     "Fat": 1,
     "Carbohydrates": 47,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лаваш кавказский",
@@ -3174,7 +3174,7 @@
     "Fat": 0,
     "Carbohydrates": 57,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирожное \"Наполеон\"",
@@ -3183,7 +3183,7 @@
     "Fat": 13,
     "Carbohydrates": 27,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Птичье молоко\" классический",
@@ -3192,7 +3192,7 @@
     "Fat": 23,
     "Carbohydrates": 38,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирожное \"Птичье молоко\"",
@@ -3201,7 +3201,7 @@
     "Fat": 23,
     "Carbohydrates": 38,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Миндальное сабле\"",
@@ -3210,7 +3210,7 @@
     "Fat": 24,
     "Carbohydrates": 29,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирожное \"Миндальное сабле\"",
@@ -3219,7 +3219,7 @@
     "Fat": 24,
     "Carbohydrates": 29,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Меренговый рулет\"",
@@ -3228,7 +3228,7 @@
     "Fat": 17,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирожное \"Меренговый рулет\"",
@@ -3237,7 +3237,7 @@
     "Fat": 17,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Клубничный йогурт\"",
@@ -3246,7 +3246,7 @@
     "Fat": 17,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирожное \"Клубничный йогурт\"",
@@ -3255,7 +3255,7 @@
     "Fat": 17,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кекс молдавский",
@@ -3264,7 +3264,7 @@
     "Fat": 8,
     "Carbohydrates": 45,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кекс шоколадный",
@@ -3273,7 +3273,7 @@
     "Fat": 20,
     "Carbohydrates": 39,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пудинг из сыра",
@@ -3282,7 +3282,7 @@
     "Fat": 13,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пудинг из творога, запеченный",
@@ -3291,7 +3291,7 @@
     "Fat": 19,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пудинг на сметане",
@@ -3300,7 +3300,7 @@
     "Fat": 15,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пудинг ореховый",
@@ -3309,7 +3309,7 @@
     "Fat": 7,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп харчо",
@@ -3318,7 +3318,7 @@
     "Fat": 5,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп «Ереванский»",
@@ -3327,7 +3327,7 @@
     "Fat": 1,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рассольник по-кубански",
@@ -3336,7 +3336,7 @@
     "Fat": 5,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рассольник ленинградский",
@@ -3345,7 +3345,7 @@
     "Fat": 1,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рассольник домашний",
@@ -3354,7 +3354,7 @@
     "Fat": 1,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свекольник холодный",
@@ -3363,7 +3363,7 @@
     "Fat": 3,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Солянка рыбная",
@@ -3372,7 +3372,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп гороховый",
@@ -3381,7 +3381,7 @@
     "Fat": 2,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп грибной",
@@ -3390,7 +3390,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп из зеленого горошка",
@@ -3399,7 +3399,7 @@
     "Fat": 1,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный с мясными фрикадельками",
@@ -3408,7 +3408,7 @@
     "Fat": 2,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный с макаронными изделиями",
@@ -3417,7 +3417,7 @@
     "Fat": 1,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный со сладким перцем",
@@ -3426,7 +3426,7 @@
     "Fat": 3,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гедлибже",
@@ -3435,7 +3435,7 @@
     "Fat": 15,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Говядина, тушенная с луком, орехами и чесноком (адыгейское национальное блюдо)",
@@ -3444,7 +3444,7 @@
     "Fat": 24,
     "Carbohydrates": 51,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Говядина, запеченная с макаронами",
@@ -3453,7 +3453,7 @@
     "Fat": 22,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Говядина, фаршированная грибами",
@@ -3462,7 +3462,7 @@
     "Fat": 25,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Голубцы овощные",
@@ -3471,7 +3471,7 @@
     "Fat": 16,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Горбуша в сливках",
@@ -3480,7 +3480,7 @@
     "Fat": 9,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грибная запеканка",
@@ -3489,7 +3489,7 @@
     "Fat": 10,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грибные пельмени",
@@ -3498,7 +3498,7 @@
     "Fat": 13,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грибные ушки",
@@ -3507,7 +3507,7 @@
     "Fat": 20,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Грибы в сметанном соусе",
@@ -3516,7 +3516,7 @@
     "Fat": 18,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гуляш говяжий",
@@ -3525,7 +3525,7 @@
     "Fat": 12,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гуляш свиной",
@@ -3534,7 +3534,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бефстроганов",
@@ -3543,7 +3543,7 @@
     "Fat": 14,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пельмени",
@@ -3552,7 +3552,7 @@
     "Fat": 14,
     "Carbohydrates": 33,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Паштет из печени",
@@ -3561,7 +3561,7 @@
     "Fat": 15,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Тбилиси",
@@ -3570,7 +3570,7 @@
     "Fat": 7,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат по-грузински",
@@ -3579,7 +3579,7 @@
     "Fat": 3,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с кальмарами",
@@ -3588,7 +3588,7 @@
     "Fat": 15,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с крабовыми палочками",
@@ -3597,7 +3597,7 @@
     "Fat": 14,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Оливье",
@@ -3606,7 +3606,7 @@
     "Fat": 15,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Винегрет",
@@ -3615,7 +3615,7 @@
     "Fat": 7,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из редиса и сметаны",
@@ -3624,7 +3624,7 @@
     "Fat": 8,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Цезарь",
@@ -3633,7 +3633,7 @@
     "Fat": 20,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Осетинский пирог с сыром и картофелем",
@@ -3642,7 +3642,7 @@
     "Fat": 9,
     "Carbohydrates": 45,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Осетинский пирог с говядиной",
@@ -3651,7 +3651,7 @@
     "Fat": 72,
     "Carbohydrates": 116,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Осетинский пирог с курицей и зеленью",
@@ -3660,7 +3660,7 @@
     "Fat": 66,
     "Carbohydrates": 131,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Осетинский пирог с зеленью и сыром",
@@ -3669,7 +3669,7 @@
     "Fat": 71,
     "Carbohydrates": 141,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Осетинский пирог с картофелем и сыром",
@@ -3678,7 +3678,7 @@
     "Fat": 56,
     "Carbohydrates": 161,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Осетинский пирог с сыром",
@@ -3687,7 +3687,7 @@
     "Fat": 86,
     "Carbohydrates": 217,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лепешка грузинская",
@@ -3696,7 +3696,7 @@
     "Fat": 0,
     "Carbohydrates": 57,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хачапури с брынзой из слоеного теста",
@@ -3705,7 +3705,7 @@
     "Fat": 10,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кутабы с зеленью и адыгейским сыром",
@@ -3714,7 +3714,7 @@
     "Fat": 15,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кутабы с картошкой",
@@ -3723,7 +3723,7 @@
     "Fat": 10,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кутабы с тыквой",
@@ -3732,7 +3732,7 @@
     "Fat": 12,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хычины с творогом",
@@ -3741,7 +3741,7 @@
     "Fat": 10,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чуду на кефире",
@@ -3750,7 +3750,7 @@
     "Fat": 8,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Аджика",
@@ -3759,7 +3759,7 @@
     "Fat": 3,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ткемали",
@@ -3768,7 +3768,7 @@
     "Fat": 40,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус по-грузински",
@@ -3777,7 +3777,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус краснодарский",
@@ -3786,7 +3786,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус ткемали с орехами",
@@ -3795,7 +3795,7 @@
     "Fat": 10,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус сацебели",
@@ -3804,7 +3804,7 @@
     "Fat": 8,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус пхали",
@@ -3813,7 +3813,7 @@
     "Fat": 6,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус из зелени",
@@ -3822,7 +3822,7 @@
     "Fat": 32,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус из кильки",
@@ -3831,7 +3831,7 @@
     "Fat": 5,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус из масла и крутого яйца",
@@ -3840,7 +3840,7 @@
     "Fat": 39,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус из репчатого лука",
@@ -3849,7 +3849,7 @@
     "Fat": 5,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус из сельдерея",
@@ -3858,7 +3858,7 @@
     "Fat": 21,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус из хрена",
@@ -3867,7 +3867,7 @@
     "Fat": 10,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус из шампиньонов со сливками",
@@ -3876,7 +3876,7 @@
     "Fat": 14,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Солянка мясная",
@@ -3885,7 +3885,7 @@
     "Fat": 8,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Окрошка на кефире",
@@ -3894,7 +3894,7 @@
     "Fat": 2,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с макаронами",
@@ -3903,7 +3903,7 @@
     "Fat": 3,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп молочный с макаронами",
@@ -3912,7 +3912,7 @@
     "Fat": 20,
     "Carbohydrates": 45,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп молочный рисовый",
@@ -3921,7 +3921,7 @@
     "Fat": 15,
     "Carbohydrates": 60,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Окрошка мясная",
@@ -3930,7 +3930,7 @@
     "Fat": 15,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бифштекс рубленый",
@@ -3939,7 +3939,7 @@
     "Fat": 43,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бифштекс с яйцом",
@@ -3948,7 +3948,7 @@
     "Fat": 24,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бифштекс с луком",
@@ -3957,7 +3957,7 @@
     "Fat": 25,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Биточки паровые",
@@ -3966,7 +3966,7 @@
     "Fat": 19,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Биточки по-селянски",
@@ -3975,7 +3975,7 @@
     "Fat": 13,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Биточки рубленые из птицы, дичи или кролика паровые под белым соусом с рисом",
@@ -3984,7 +3984,7 @@
     "Fat": 13,
     "Carbohydrates": 38,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Биточки рыбные, жареные «фри»",
@@ -3993,7 +3993,7 @@
     "Fat": 15,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Биточки, котлеты из кальмаров и рыбы",
@@ -4002,7 +4002,7 @@
     "Fat": 12,
     "Carbohydrates": 51,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Беляши (казахское национальное блюдо)",
@@ -4011,7 +4011,7 @@
     "Fat": 14,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Береки (калмыцкое национальное блюдо)",
@@ -4020,7 +4020,7 @@
     "Fat": 18,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Котлеты куриные на пару",
@@ -4029,7 +4029,7 @@
     "Fat": 10,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Котлеты из индейки на пару",
@@ -4038,7 +4038,7 @@
     "Fat": 5,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Столичный",
@@ -4047,7 +4047,7 @@
     "Fat": 25,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Сельдь под шубой",
@@ -4056,7 +4056,7 @@
     "Fat": 17,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Мечта",
@@ -4065,7 +4065,7 @@
     "Fat": 40,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Легкий с Рукколой",
@@ -4074,7 +4074,7 @@
     "Fat": 6,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Летний",
@@ -4083,7 +4083,7 @@
     "Fat": 5,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Морской Коктейль",
@@ -4092,7 +4092,7 @@
     "Fat": 17,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из Кальмаров с Грибами",
@@ -4101,7 +4101,7 @@
     "Fat": 17,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из Пекинской Капусты с Крабовыми Палочками",
@@ -4110,7 +4110,7 @@
     "Fat": 12,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Прага\"",
@@ -4119,7 +4119,7 @@
     "Fat": 17,
     "Carbohydrates": 38,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Киевский Оригинальный\"",
@@ -4128,7 +4128,7 @@
     "Fat": 15,
     "Carbohydrates": 69,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Пражский\"",
@@ -4137,7 +4137,7 @@
     "Fat": 24,
     "Carbohydrates": 38,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирожное \"Чизкейк\"",
@@ -4146,7 +4146,7 @@
     "Fat": 20,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус голландский",
@@ -4155,7 +4155,7 @@
     "Fat": 44,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус барбекю Heinz",
@@ -4164,7 +4164,7 @@
     "Fat": 0,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус томатный с грибами",
@@ -4173,7 +4173,7 @@
     "Fat": 11,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус томатный с овощами",
@@ -4182,7 +4182,7 @@
     "Fat": 14,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус хрен со сметаной",
@@ -4191,7 +4191,7 @@
     "Fat": 19,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус айоли",
@@ -4200,7 +4200,7 @@
     "Fat": 86,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус барбекю",
@@ -4209,7 +4209,7 @@
     "Fat": 39,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус вустерский",
@@ -4218,7 +4218,7 @@
     "Fat": 18,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус томатный острый",
@@ -4227,7 +4227,7 @@
     "Fat": 21,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус сливовый готовый к употреблению",
@@ -4236,7 +4236,7 @@
     "Fat": 1,
     "Carbohydrates": 42,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус яблочный",
@@ -4245,7 +4245,7 @@
     "Fat": 0,
     "Carbohydrates": 19,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус черносмородиновый",
@@ -4254,7 +4254,7 @@
     "Fat": 0,
     "Carbohydrates": 19,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус брусничный Heinz деликатесный",
@@ -4263,7 +4263,7 @@
     "Fat": 51,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус томатный для пиццы",
@@ -4272,7 +4272,7 @@
     "Fat": 6,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Tabasco перечный красный",
@@ -4281,7 +4281,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Том Ям Кунг",
@@ -4290,7 +4290,7 @@
     "Fat": 3,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рамен",
@@ -4299,7 +4299,7 @@
     "Fat": 5,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фо Бо",
@@ -4308,7 +4308,7 @@
     "Fat": 3,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с тофу и водорослями",
@@ -4317,7 +4317,7 @@
     "Fat": 2,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с лапшой и свининой",
@@ -4326,7 +4326,7 @@
     "Fat": 4,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с креветками и кокосовым молоком",
@@ -4335,7 +4335,7 @@
     "Fat": 5,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с курицей и арахисом",
@@ -4344,7 +4344,7 @@
     "Fat": 4,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с лапшой и говядиной",
@@ -4353,7 +4353,7 @@
     "Fat": 4,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с морепродуктами и рисом басмати",
@@ -4362,7 +4362,7 @@
     "Fat": 5,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с курицей и грибами",
@@ -4371,7 +4371,7 @@
     "Fat": 3,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с лапшой и овощами",
@@ -4380,7 +4380,7 @@
     "Fat": 2,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с тофу и шпинатом",
@@ -4389,7 +4389,7 @@
     "Fat": 2,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с курицей и кукурузой",
@@ -4398,7 +4398,7 @@
     "Fat": 4,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Курица терияки",
@@ -4407,7 +4407,7 @@
     "Fat": 7,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Говядина с брокколи",
@@ -4416,7 +4416,7 @@
     "Fat": 10,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суши с лососем",
@@ -4425,7 +4425,7 @@
     "Fat": 4,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пад тай с креветками",
@@ -4434,7 +4434,7 @@
     "Fat": 12,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рамен с курицей",
@@ -4443,7 +4443,7 @@
     "Fat": 15,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суши с угрем",
@@ -4452,7 +4452,7 @@
     "Fat": 3,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кимчи с цыпленком",
@@ -4461,7 +4461,7 @@
     "Fat": 28,
     "Carbohydrates": 47,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гюнику татаки",
@@ -4470,7 +4470,7 @@
     "Fat": 2,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Том-ям с креветками",
@@ -4479,7 +4479,7 @@
     "Fat": 5,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суши с креветкой",
@@ -4488,7 +4488,7 @@
     "Fat": 2,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гютан терияки",
@@ -4497,7 +4497,7 @@
     "Fat": 22,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суши с кальмаром",
@@ -4506,7 +4506,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суши с морским гребешком",
@@ -4515,7 +4515,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суши с омлетом",
@@ -4524,7 +4524,7 @@
     "Fat": 1,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат по-пекински",
@@ -4533,7 +4533,7 @@
     "Fat": 5,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Ташкент",
@@ -4542,7 +4542,7 @@
     "Fat": 13,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат пекинская капуста",
@@ -4551,7 +4551,7 @@
     "Fat": 5,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ёкан, желе из бобов адзуки",
@@ -4560,7 +4560,7 @@
     "Fat": 0,
     "Carbohydrates": 60,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт Сказки Востока с инжиром и орехами",
@@ -4569,7 +4569,7 @@
     "Fat": 26,
     "Carbohydrates": 65,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт Сказки Востока ассорти",
@@ -4578,7 +4578,7 @@
     "Fat": 26,
     "Carbohydrates": 65,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Десерт Чиа-Сан",
@@ -4587,7 +4587,7 @@
     "Fat": 3,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капкейк карамельный",
@@ -4596,7 +4596,7 @@
     "Fat": 18,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Карамель с апельсиновым муссом",
@@ -4605,7 +4605,7 @@
     "Fat": 17,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капкейк с малиновым муссом",
@@ -4614,7 +4614,7 @@
     "Fat": 9,
     "Carbohydrates": 36,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кейкпопс розовый",
@@ -4623,7 +4623,7 @@
     "Fat": 23,
     "Carbohydrates": 38,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Эклер классический",
@@ -4632,7 +4632,7 @@
     "Fat": 15,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Эклер манго-маракуйя",
@@ -4641,7 +4641,7 @@
     "Fat": 20,
     "Carbohydrates": 17,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Эклер фисташковый с малиной",
@@ -4650,7 +4650,7 @@
     "Fat": 21,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Эклер шоколадный с пралине",
@@ -4659,7 +4659,7 @@
     "Fat": 29,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Крем-брюле",
@@ -4668,7 +4668,7 @@
     "Fat": 8,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лавандовый десерт",
@@ -4677,7 +4677,7 @@
     "Fat": 8,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Апельсин с карамельными хрустяшками",
@@ -4686,7 +4686,7 @@
     "Fat": 8,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус соевый Kikkoman",
@@ -4695,7 +4695,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус кисло-сладкий азиатский",
@@ -4704,7 +4704,7 @@
     "Fat": 6,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Wok Yakisoba",
@@ -4713,7 +4713,7 @@
     "Fat": 0,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Чесночный Торчин",
@@ -4722,7 +4722,7 @@
     "Fat": 50,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Китайский ВкусВилл",
@@ -4731,7 +4731,7 @@
     "Fat": 1,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Тайский Чили Sen Soy",
@@ -4740,7 +4740,7 @@
     "Fat": 0,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ореховый Соус Pan-Asian",
@@ -4749,7 +4749,7 @@
     "Fat": 15,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Унаги Японский Соус Sen Soy",
@@ -4758,7 +4758,7 @@
     "Fat": 0,
     "Carbohydrates": 34,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Острый Соус Васаби Sen Soy",
@@ -4767,7 +4767,7 @@
     "Fat": 2,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Asia Thai Соус Spilva",
@@ -4776,7 +4776,7 @@
     "Fat": 0,
     "Carbohydrates": 40,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Унаги Sen Soy",
@@ -4785,7 +4785,7 @@
     "Fat": 0,
     "Carbohydrates": 34,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Чили Шрирача Sen Soy",
@@ -4794,7 +4794,7 @@
     "Fat": 2,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Кисло-Сладкий Sen Soy",
@@ -4803,7 +4803,7 @@
     "Fat": 6,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус Сладкий Чили Тайский Sen Soy",
@@ -4812,7 +4812,7 @@
     "Fat": 0,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тальятелле с креветками",
@@ -4821,7 +4821,7 @@
     "Fat": 58,
     "Carbohydrates": 47,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лингвини с морепродуктами",
@@ -4830,7 +4830,7 @@
     "Fat": 65,
     "Carbohydrates": 44,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Казаречче с рагу из утки",
@@ -4839,7 +4839,7 @@
     "Fat": 74,
     "Carbohydrates": 57,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Карбонара с панчеттой",
@@ -4848,7 +4848,7 @@
     "Fat": 104,
     "Carbohydrates": 61,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Паппарделле с рагу болоньезе",
@@ -4857,7 +4857,7 @@
     "Fat": 54,
     "Carbohydrates": 49,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гарганелли с рагу из кролика и грибов",
@@ -4866,7 +4866,7 @@
     "Fat": 64,
     "Carbohydrates": 39,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Алио и олио",
@@ -4875,7 +4875,7 @@
     "Fat": 29,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Качо э пепе",
@@ -4884,7 +4884,7 @@
     "Fat": 55,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Аль помодоро",
@@ -4893,7 +4893,7 @@
     "Fat": 36,
     "Carbohydrates": 55,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Каламарата с крабом на компанию",
@@ -4902,7 +4902,7 @@
     "Fat": 84,
     "Carbohydrates": 69,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тортеллони с трюфельной пастой и муссом из пармезана",
@@ -4911,7 +4911,7 @@
     "Fat": 64,
     "Carbohydrates": 41,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тортеллони с креветкой, томатами черри и муссом из пармезана",
@@ -4920,7 +4920,7 @@
     "Fat": 65,
     "Carbohydrates": 41,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Равиоли с рикоттой и белыми грибами",
@@ -4929,7 +4929,7 @@
     "Fat": 3,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лазанья классическая",
@@ -4938,7 +4938,7 @@
     "Fat": 11,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча",
@@ -4947,7 +4947,7 @@
     "Fat": 10,
     "Carbohydrates": 47,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с беконом",
@@ -4956,7 +4956,7 @@
     "Fat": 19,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с картофелем и розмарином",
@@ -4965,7 +4965,7 @@
     "Fat": 8,
     "Carbohydrates": 37,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с помидорами",
@@ -4974,7 +4974,7 @@
     "Fat": 1,
     "Carbohydrates": 73,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с сыром",
@@ -4983,7 +4983,7 @@
     "Fat": 6,
     "Carbohydrates": 65,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с моцареллой",
@@ -4992,7 +4992,7 @@
     "Fat": 11,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с пармезаном",
@@ -5001,7 +5001,7 @@
     "Fat": 10,
     "Carbohydrates": 48,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с пармезаном, томатом и базиликом",
@@ -5010,7 +5010,7 @@
     "Fat": 7,
     "Carbohydrates": 42,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фокачча с двойным сыром",
@@ -5019,7 +5019,7 @@
     "Fat": 11,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пицца \"Маргарита\"",
@@ -5028,7 +5028,7 @@
     "Fat": 5,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пицца \"Цезарь\"",
@@ -5037,7 +5037,7 @@
     "Fat": 2,
     "Carbohydrates": 29,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пицца \"Фруктовая\"",
@@ -5046,7 +5046,7 @@
     "Fat": 5,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пицца ролл",
@@ -5055,7 +5055,7 @@
     "Fat": 11,
     "Carbohydrates": 37,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пицца \"Флоренция\"",
@@ -5064,7 +5064,7 @@
     "Fat": 5,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пицца \"Дабл Чизбургер\"",
@@ -5073,7 +5073,7 @@
     "Fat": 12,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Цезарь с курицей",
@@ -5082,7 +5082,7 @@
     "Fat": 61,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Свекольный салат с брынзой",
@@ -5091,7 +5091,7 @@
     "Fat": 16,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Венеция",
@@ -5100,7 +5100,7 @@
     "Fat": 6,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Итальянский с ветчиной",
@@ -5109,7 +5109,7 @@
     "Fat": 14,
     "Carbohydrates": 31,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Брускетта с тапенадом из маслин",
@@ -5118,7 +5118,7 @@
     "Fat": 14,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Аранчини с овощной начинкой",
@@ -5127,7 +5127,7 @@
     "Fat": 8,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Снэк-оливки и маслины",
@@ -5136,7 +5136,7 @@
     "Fat": 10,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из свёклы с орешками, пармезаном и заправкой из бальзамического уксуса",
@@ -5145,7 +5145,7 @@
     "Fat": 15,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Итальянский салат с редиской, авокадо, черри и лимонной заправкой",
@@ -5154,7 +5154,7 @@
     "Fat": 10,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рулетики из баклажанов с креветками",
@@ -5163,7 +5163,7 @@
     "Fat": 7,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Капрезе",
@@ -5172,7 +5172,7 @@
     "Fat": 10,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Цезарь с креветками",
@@ -5181,7 +5181,7 @@
     "Fat": 19,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ролл Филадельфия с креветкой",
@@ -5190,7 +5190,7 @@
     "Fat": 3,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ролл Цезарь",
@@ -5199,7 +5199,7 @@
     "Fat": 6,
     "Carbohydrates": 33,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тирамису",
@@ -5208,7 +5208,7 @@
     "Fat": 17,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Печенье Торкетти",
@@ -5217,7 +5217,7 @@
     "Fat": 19,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Десерт Флоренция карамельный",
@@ -5226,7 +5226,7 @@
     "Fat": 17,
     "Carbohydrates": 53,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тартюфо",
@@ -5235,7 +5235,7 @@
     "Fat": 15,
     "Carbohydrates": 31,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Профитроли",
@@ -5244,7 +5244,7 @@
     "Fat": 14,
     "Carbohydrates": 33,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Канноли",
@@ -5253,7 +5253,7 @@
     "Fat": 15,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Панна котта",
@@ -5262,7 +5262,7 @@
     "Fat": 15,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сфольятелла",
@@ -5271,7 +5271,7 @@
     "Fat": 20,
     "Carbohydrates": 40,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Баба",
@@ -5280,7 +5280,7 @@
     "Fat": 20,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кастаньоли",
@@ -5289,7 +5289,7 @@
     "Fat": 18,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Панфорте",
@@ -5298,7 +5298,7 @@
     "Fat": 25,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кростата",
@@ -5307,7 +5307,7 @@
     "Fat": 15,
     "Carbohydrates": 40,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Панеттоне",
@@ -5316,7 +5316,7 @@
     "Fat": 15,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тортилья",
@@ -5325,7 +5325,7 @@
     "Fat": 15,
     "Carbohydrates": 40,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Панна котта с ягодами",
@@ -5334,7 +5334,7 @@
     "Fat": 15,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Итальянский Томатный Соус с Ароматными Травами",
@@ -5343,7 +5343,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Итальянский Салатный Соус",
@@ -5352,7 +5352,7 @@
     "Fat": 28,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Итальянский Томатный Соус",
@@ -5361,7 +5361,7 @@
     "Fat": 6,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Заправка для салата \"Zesty Italian Dressing\" компании KRAFT",
@@ -5370,7 +5370,7 @@
     "Fat": 35,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус итальянский томатный",
@@ -5379,7 +5379,7 @@
     "Fat": 6,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус песто",
@@ -5388,7 +5388,7 @@
     "Fat": 53,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус маринара",
@@ -5397,7 +5397,7 @@
     "Fat": 3,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус болоньезе",
@@ -5406,7 +5406,7 @@
     "Fat": 10,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус карбонара",
@@ -5415,7 +5415,7 @@
     "Fat": 15,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус альфредо",
@@ -5424,7 +5424,7 @@
     "Fat": 25,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус песто с вялеными помидорами",
@@ -5433,7 +5433,7 @@
     "Fat": 50,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус песто с рукколой",
@@ -5442,7 +5442,7 @@
     "Fat": 48,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус песто с орехами пекан",
@@ -5451,7 +5451,7 @@
     "Fat": 52,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус песто с кешью",
@@ -5460,7 +5460,7 @@
     "Fat": 50,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соус песто с миндалем",
@@ -5469,7 +5469,7 @@
     "Fat": 48,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шурпа",
@@ -5478,7 +5478,7 @@
     "Fat": 4,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лагман",
@@ -5487,7 +5487,7 @@
     "Fat": 8,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп из баранины с нутом",
@@ -5496,7 +5496,7 @@
     "Fat": 6,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с фрикадельками",
@@ -5505,7 +5505,7 @@
     "Fat": 5,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с чечевицей",
@@ -5514,7 +5514,7 @@
     "Fat": 4,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с помидорами и рисом",
@@ -5523,7 +5523,7 @@
     "Fat": 3,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с картофелем и курицей",
@@ -5532,7 +5532,7 @@
     "Fat": 5,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с баклажанами и мясом",
@@ -5541,7 +5541,7 @@
     "Fat": 6,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с тыквой и говядиной",
@@ -5550,7 +5550,7 @@
     "Fat": 4,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с фасолью и мясом",
@@ -5559,7 +5559,7 @@
     "Fat": 5,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с квашеной капустой и мясом",
@@ -5568,7 +5568,7 @@
     "Fat": 6,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с грибами и картофелем",
@@ -5577,7 +5577,7 @@
     "Fat": 4,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с мясом и овощами",
@@ -5586,7 +5586,7 @@
     "Fat": 5,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с рисом и курицей",
@@ -5595,7 +5595,7 @@
     "Fat": 5,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Манты с бараниной",
@@ -5604,7 +5604,7 @@
     "Fat": 10,
     "Carbohydrates": 17,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чебуреки",
@@ -5613,7 +5613,7 @@
     "Fat": 15,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пельмени мясные",
@@ -5622,7 +5622,7 @@
     "Fat": 8,
     "Carbohydrates": 29,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пельмени старорусские с субпродуктами",
@@ -5631,7 +5631,7 @@
     "Fat": 13,
     "Carbohydrates": 21,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пельмени по-мордовски",
@@ -5640,7 +5640,7 @@
     "Fat": 14,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пельмени, запеченные в сметане",
@@ -5649,7 +5649,7 @@
     "Fat": 40,
     "Carbohydrates": 41,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Курзе с зеленью (дагестанское национальное блюдо)",
@@ -5658,7 +5658,7 @@
     "Fat": 5,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Дервиш",
@@ -5667,7 +5667,7 @@
     "Fat": 27,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Самарканд",
@@ -5676,7 +5676,7 @@
     "Fat": 11,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Ферганский",
@@ -5685,7 +5685,7 @@
     "Fat": 14,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с Сулугуни",
@@ -5694,7 +5694,7 @@
     "Fat": 22,
     "Carbohydrates": 53,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с Тунцом",
@@ -5703,7 +5703,7 @@
     "Fat": 9,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с Креветками",
@@ -5712,7 +5712,7 @@
     "Fat": 10,
     "Carbohydrates": 26,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с Курицей и Опятами",
@@ -5721,7 +5721,7 @@
     "Fat": 23,
     "Carbohydrates": 23,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Чука",
@@ -5730,7 +5730,7 @@
     "Fat": 21,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из стручковой фасоли",
@@ -5739,7 +5739,7 @@
     "Fat": 3,
     "Carbohydrates": 31,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из сырой моркови и репы",
@@ -5748,7 +5748,7 @@
     "Fat": 8,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из сырой моркови с яблоками",
@@ -5757,7 +5757,7 @@
     "Fat": 4,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из сырой свеклы",
@@ -5766,7 +5766,7 @@
     "Fat": 4,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из сырых овощей",
@@ -5775,7 +5775,7 @@
     "Fat": 7,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тандыр нан",
@@ -5784,7 +5784,7 @@
     "Fat": 1,
     "Carbohydrates": 47,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Жупка",
@@ -5793,7 +5793,7 @@
     "Fat": 1,
     "Carbohydrates": 56,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Самса с мясом говядины",
@@ -5802,7 +5802,7 @@
     "Fat": 15,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Самса со свининой",
@@ -5811,7 +5811,7 @@
     "Fat": 15,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Самса с творогом и зеленью",
@@ -5820,7 +5820,7 @@
     "Fat": 5,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Самса с картошкой и мясом",
@@ -5829,7 +5829,7 @@
     "Fat": 10,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Катлама с сыром и зелёным луком",
@@ -5838,7 +5838,7 @@
     "Fat": 15,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Катлама с творогом и зеленью",
@@ -5847,7 +5847,7 @@
     "Fat": 14,
     "Carbohydrates": 34,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Катлама с мясом",
@@ -5856,7 +5856,7 @@
     "Fat": 16,
     "Carbohydrates": 36,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог с мясом и картошкой",
@@ -5865,7 +5865,7 @@
     "Fat": 12,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог с мясом и зеленью",
@@ -5874,7 +5874,7 @@
     "Fat": 11,
     "Carbohydrates": 34,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог с мясом и рисом",
@@ -5883,7 +5883,7 @@
     "Fat": 13,
     "Carbohydrates": 36,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог с мясом и фасолью",
@@ -5892,7 +5892,7 @@
     "Fat": 14,
     "Carbohydrates": 37,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог с мясом и тыквой",
@@ -5901,7 +5901,7 @@
     "Fat": 11,
     "Carbohydrates": 34,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог с мясом и баклажанами",
@@ -5910,7 +5910,7 @@
     "Fat": 12,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гарам масала",
@@ -5919,7 +5919,7 @@
     "Fat": 15,
     "Carbohydrates": 45,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хмели-сунели",
@@ -5928,7 +5928,7 @@
     "Fat": 40,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кетчуп",
@@ -5937,7 +5937,7 @@
     "Fat": 1,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Соевый соус",
@@ -5946,7 +5946,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Приправа для плова",
@@ -5955,7 +5955,7 @@
     "Fat": 2,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Томатно-чесночная приправа",
@@ -5964,7 +5964,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тмин",
@@ -5973,7 +5973,7 @@
     "Fat": 14,
     "Carbohydrates": 49,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Корица молотая",
@@ -5982,7 +5982,7 @@
     "Fat": 4,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Куркума молотая",
@@ -5991,7 +5991,7 @@
     "Fat": 13,
     "Carbohydrates": 58,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Карри молотая",
@@ -6000,7 +6000,7 @@
     "Fat": 13,
     "Carbohydrates": 58,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гвоздика молотая",
@@ -6009,7 +6009,7 @@
     "Fat": 20,
     "Carbohydrates": 61,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Имбирь молотый",
@@ -6018,7 +6018,7 @@
     "Fat": 6,
     "Carbohydrates": 70,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кориандр молотый",
@@ -6027,7 +6027,7 @@
     "Fat": 17,
     "Carbohydrates": 55,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Мерджимек чорбасы (суп из красной чечевицы)",
@@ -6036,7 +6036,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тархана чорбасы (суп из тарханы)",
@@ -6045,7 +6045,7 @@
     "Fat": 2,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шехриели ешиль мерджимек чорбасы (суп из зелёной чечевицы с мелкой вермишелью)",
@@ -6054,7 +6054,7 @@
     "Fat": 1,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ишкембе чорбасы (суп из требухи)",
@@ -6063,7 +6063,7 @@
     "Fat": 4,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яйла чорбасы (пастуший кисломолочный суп с рисом)",
@@ -6072,7 +6072,7 @@
     "Fat": 2,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Дююн чорбасы (свадебный суп из баранины)",
@@ -6081,7 +6081,7 @@
     "Fat": 7,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Каралахана чорбасы (суп из капусты и фасоли)",
@@ -6090,7 +6090,7 @@
     "Fat": 3,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тутмач чорбасы (суп из лапши, нута и зелёной чечевицы)",
@@ -6099,7 +6099,7 @@
     "Fat": 4,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хюнкар чорбасы (суп султанов)",
@@ -6108,7 +6108,7 @@
     "Fat": 6,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шифа чорбасы (лечебный суп)",
@@ -6117,7 +6117,7 @@
     "Fat": 3,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с булгуром",
@@ -6126,7 +6126,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с перловой крупой",
@@ -6135,7 +6135,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с рыбными вареничками",
@@ -6144,7 +6144,7 @@
     "Fat": 2,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп с рыбными фрикадельками",
@@ -6153,7 +6153,7 @@
     "Fat": 0,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кёфте (турецкие фрикадельки)",
@@ -6162,7 +6162,7 @@
     "Fat": 7,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Долма из виноградных листьев с мясом",
@@ -6171,7 +6171,7 @@
     "Fat": 12,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Имам баялды (фаршированные баклажаны)",
@@ -6180,7 +6180,7 @@
     "Fat": 18,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лахмаджун (турецкая пицца с мясом)",
@@ -6189,7 +6189,7 @@
     "Fat": 10,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пиде с фаршем (турецкая лепешка с мясом)",
@@ -6198,7 +6198,7 @@
     "Fat": 12,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий бурек с мясной начинкой",
@@ -6207,7 +6207,7 @@
     "Fat": 20,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Люля-кебаб из мясного фарша со специями",
@@ -6216,7 +6216,7 @@
     "Fat": 7,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий кебаб из фарша",
@@ -6225,7 +6225,7 @@
     "Fat": 8,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Классическая шаурма с курицей",
@@ -6234,7 +6234,7 @@
     "Fat": 10,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Баклажаны по-турецки с фаршем",
@@ -6243,7 +6243,7 @@
     "Fat": 12,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чалагач из свинины в духовке",
@@ -6252,7 +6252,7 @@
     "Fat": 8,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Люля-кебаб на шпажках в духовке из фарша",
@@ -6261,7 +6261,7 @@
     "Fat": 8,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Бешбармак с картошкой",
@@ -6270,7 +6270,7 @@
     "Fat": 12,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Нут с говядиной",
@@ -6279,7 +6279,7 @@
     "Fat": 7,
     "Carbohydrates": 18,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Искандер кебаб по-турецки",
@@ -6288,7 +6288,7 @@
     "Fat": 12,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пастуший салат (Чобан салатасы)",
@@ -6297,7 +6297,7 @@
     "Fat": 10,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из баклажанов (Патлыджан салатасы)",
@@ -6306,7 +6306,7 @@
     "Fat": 8,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с рукколой и жареной курицей (Рока)",
@@ -6315,7 +6315,7 @@
     "Fat": 12,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из булгура (Кысыр)",
@@ -6324,7 +6324,7 @@
     "Fat": 10,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из фасоли с луком (Пияз)",
@@ -6333,7 +6333,7 @@
     "Fat": 7,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из редьки",
@@ -6342,7 +6342,7 @@
     "Fat": 2,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из квашеной капусты",
@@ -6351,7 +6351,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из свеклы",
@@ -6360,7 +6360,7 @@
     "Fat": 3,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из сырых овощей с яблоками",
@@ -6369,7 +6369,7 @@
     "Fat": 2,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из творога",
@@ -6378,7 +6378,7 @@
     "Fat": 10,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из трески с майонезом",
@@ -6387,7 +6387,7 @@
     "Fat": 12,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из трески с хреном",
@@ -6396,7 +6396,7 @@
     "Fat": 10,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из тыквы",
@@ -6405,7 +6405,7 @@
     "Fat": 3,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пахлава турецкая",
@@ -6414,7 +6414,7 @@
     "Fat": 21,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог Татарский с Курицей и Картофелем «Элеш»",
@@ -6423,7 +6423,7 @@
     "Fat": 15,
     "Carbohydrates": 17,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог Турецкий Ревани",
@@ -6432,7 +6432,7 @@
     "Fat": 10,
     "Carbohydrates": 29,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пицца Турецкая «Пиде» с Говядиной",
@@ -6441,7 +6441,7 @@
     "Fat": 3,
     "Carbohydrates": 27,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий Пирог с Нутом",
@@ -6450,7 +6450,7 @@
     "Fat": 21,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лепешка Пита Турецкая",
@@ -6459,7 +6459,7 @@
     "Fat": 1,
     "Carbohydrates": 44,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лепешка Турецкая",
@@ -6468,7 +6468,7 @@
     "Fat": 2,
     "Carbohydrates": 64,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Буреки с сыром",
@@ -6477,7 +6477,7 @@
     "Fat": 20,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Симит",
@@ -6486,7 +6486,7 @@
     "Fat": 10,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кадейф",
@@ -6495,7 +6495,7 @@
     "Fat": 20,
     "Carbohydrates": 40,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кюнефе",
@@ -6504,7 +6504,7 @@
     "Fat": 25,
     "Carbohydrates": 45,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Лахмаджун",
@@ -6513,7 +6513,7 @@
     "Fat": 8,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пиде с яйцом и сыром",
@@ -6522,7 +6522,7 @@
     "Fat": 15,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кебаб в лаваше",
@@ -6531,7 +6531,7 @@
     "Fat": 15,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пирог с мясом и овощами",
@@ -6540,7 +6540,7 @@
     "Fat": 12,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Казандиби",
@@ -6549,7 +6549,7 @@
     "Fat": 5,
     "Carbohydrates": 37,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тулумба",
@@ -6558,7 +6558,7 @@
     "Fat": 20,
     "Carbohydrates": 50,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пишмание",
@@ -6567,7 +6567,7 @@
     "Fat": 10,
     "Carbohydrates": 70,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ревани",
@@ -6576,7 +6576,7 @@
     "Fat": 8,
     "Carbohydrates": 45,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Локум",
@@ -6585,7 +6585,7 @@
     "Fat": 0,
     "Carbohydrates": 75,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Сютлач",
@@ -6594,7 +6594,7 @@
     "Fat": 5,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гюлляч",
@@ -6603,7 +6603,7 @@
     "Fat": 7,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Локма",
@@ -6612,7 +6612,7 @@
     "Fat": 25,
     "Carbohydrates": 60,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Джезерье",
@@ -6621,7 +6621,7 @@
     "Fat": 15,
     "Carbohydrates": 60,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Джевизли суджук",
@@ -6630,7 +6630,7 @@
     "Fat": 10,
     "Carbohydrates": 80,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пестил",
@@ -6639,7 +6639,7 @@
     "Fat": 0,
     "Carbohydrates": 65,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ашуре",
@@ -6648,7 +6648,7 @@
     "Fat": 5,
     "Carbohydrates": 35,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Айран Турецкий",
@@ -6657,7 +6657,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий Айран 1,5%",
@@ -6666,7 +6666,7 @@
     "Fat": 1,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Айран Турецкий Долголетие 1,8%",
@@ -6675,7 +6675,7 @@
     "Fat": 1,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Кофе по-восточному (по-турецки)",
@@ -6684,7 +6684,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Йогурт Турецкий",
@@ -6693,7 +6693,7 @@
     "Fat": 3,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Айран по-турецьки 1.8% Ферма",
@@ -6702,7 +6702,7 @@
     "Fat": 1,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий чай (черный)",
@@ -6711,7 +6711,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий кофе (без сахара)",
@@ -6720,7 +6720,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий сок граната",
@@ -6729,7 +6729,7 @@
     "Fat": 0,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий сок апельсина",
@@ -6738,7 +6738,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий сок яблока",
@@ -6747,7 +6747,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий сок вишни",
@@ -6756,7 +6756,7 @@
     "Fat": 0,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий сок граната с лимоном",
@@ -6765,7 +6765,7 @@
     "Fat": 0,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий сок моркови",
@@ -6774,7 +6774,7 @@
     "Fat": 0,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Турецкий сок граната с мятой",
@@ -6783,7 +6783,7 @@
     "Fat": 0,
     "Carbohydrates": 17,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Овсяная каша на воде",
@@ -6792,7 +6792,7 @@
     "Fat": 1,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Омлет с овощами",
@@ -6801,7 +6801,7 @@
     "Fat": 12,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из свежих овощей",
@@ -6810,7 +6810,7 @@
     "Fat": 4,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ягодное смузи",
@@ -6819,7 +6819,7 @@
     "Fat": 0,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Омлет с сыром",
@@ -6828,7 +6828,7 @@
     "Fat": 28,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Обезжиренный творог с ягодами",
@@ -6837,7 +6837,7 @@
     "Fat": 4,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фруктовый салат",
@@ -6846,7 +6846,7 @@
     "Fat": 0,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Ленивая гречка с молоком",
@@ -6855,7 +6855,7 @@
     "Fat": 3,
     "Carbohydrates": 30,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шакшука — израильская яичница с помидорами",
@@ -6864,7 +6864,7 @@
     "Fat": 7,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Блины с творогом и зеленью",
@@ -6873,7 +6873,7 @@
     "Fat": 11,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Овсяноблин на кефире",
@@ -6882,7 +6882,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Овсяные фитнес печенья",
@@ -6891,7 +6891,7 @@
     "Fat": 3,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожное суфле в духовке",
@@ -6900,7 +6900,7 @@
     "Fat": 8,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пудинг диетический творожный",
@@ -6909,7 +6909,7 @@
     "Fat": 6,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "ПП десерт из творога",
@@ -6918,7 +6918,7 @@
     "Fat": 15,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Борщ постный",
@@ -6927,7 +6927,7 @@
     "Fat": 2,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Щи постные",
@@ -6936,7 +6936,7 @@
     "Fat": 3,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп тыквенный",
@@ -6945,7 +6945,7 @@
     "Fat": 0,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп из бобовых",
@@ -6954,7 +6954,7 @@
     "Fat": 2,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Солянка овоще-грибная из свежей капусты",
@@ -6963,7 +6963,7 @@
     "Fat": 7,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Солянка овощная из квашеной капусты",
@@ -6972,7 +6972,7 @@
     "Fat": 10,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Куриные котлеты на пару",
@@ -6981,7 +6981,7 @@
     "Fat": 10,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Котлеты рыбные",
@@ -6990,7 +6990,7 @@
     "Fat": 3,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капустный суп",
@@ -6999,7 +6999,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Щи из квашеной капусты с картофелем",
@@ -7008,7 +7008,7 @@
     "Fat": 2,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Щи из свежей капусты",
@@ -7017,7 +7017,7 @@
     "Fat": 2,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Щи из свежей капусты с картофелем",
@@ -7026,7 +7026,7 @@
     "Fat": 3,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Щи суточные",
@@ -7035,7 +7035,7 @@
     "Fat": 2,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп Кимчи",
@@ -7044,7 +7044,7 @@
     "Fat": 1,
     "Carbohydrates": 24,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп крабовый",
@@ -7053,7 +7053,7 @@
     "Fat": 3,
     "Carbohydrates": 19,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп Мисо",
@@ -7062,7 +7062,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп сливочный с угрем",
@@ -7071,7 +7071,7 @@
     "Fat": 8,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп Суимоно",
@@ -7080,7 +7080,7 @@
     "Fat": 1,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп Том Ям",
@@ -7089,7 +7089,7 @@
     "Fat": 0,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из огурцов, перца, томатов",
@@ -7098,7 +7098,7 @@
     "Fat": 0,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Редис со сметаной и яйцом",
@@ -7107,7 +7107,7 @@
     "Fat": 5,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из моркови, капусты",
@@ -7116,7 +7116,7 @@
     "Fat": 0,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Торт \"Битое стекло\"",
@@ -7125,7 +7125,7 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Диетическое пирожное \"Картошка\"",
@@ -7134,7 +7134,7 @@
     "Fat": 2,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Зефир из творога",
@@ -7143,7 +7143,7 @@
     "Fat": 0,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Желе из яблок без желатина",
@@ -7152,7 +7152,7 @@
     "Fat": 0,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Клубничный мусс",
@@ -7161,7 +7161,7 @@
     "Fat": 0,
     "Carbohydrates": 22,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Гречневые маффины с протеином",
@@ -7170,7 +7170,7 @@
     "Fat": 6,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Творожная запеканка с протеином в мультиварке",
@@ -7179,7 +7179,7 @@
     "Fat": 3,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Желе из киви",
@@ -7188,7 +7188,7 @@
     "Fat": 0,
     "Carbohydrates": 19,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чизкейк в яблоке",
@@ -7197,7 +7197,7 @@
     "Fat": 1,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яблочно-банановый чизкейк без запекания",
@@ -7206,7 +7206,7 @@
     "Fat": 0,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Шоколадный чизкейк без выпечки",
@@ -7215,7 +7215,7 @@
     "Fat": 1,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чизкейк с яблоком",
@@ -7224,7 +7224,7 @@
     "Fat": 1,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Самбук абрикосовый",
@@ -7233,7 +7233,7 @@
     "Fat": 0,
     "Carbohydrates": 28,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Самбук из абрикосов",
@@ -7242,7 +7242,7 @@
     "Fat": 0,
     "Carbohydrates": 21,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Самбук яблочный или сливовый",
@@ -7251,7 +7251,7 @@
     "Fat": 0,
     "Carbohydrates": 21,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Цезарь с куриной грудкой",
@@ -7260,7 +7260,7 @@
     "Fat": 6,
     "Carbohydrates": 12,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с крутым яйцом",
@@ -7269,7 +7269,7 @@
     "Fat": 10,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с авокадо",
@@ -7278,7 +7278,7 @@
     "Fat": 9,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Замороженный йогурт с фруктами",
@@ -7287,7 +7287,7 @@
     "Fat": 2,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Авокадо с креветочным коктейлем",
@@ -7296,7 +7296,7 @@
     "Fat": 7,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Паштет из скумбрии",
@@ -7305,7 +7305,7 @@
     "Fat": 14,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хумус с хариссой и тмином",
@@ -7314,7 +7314,7 @@
     "Fat": 6,
     "Carbohydrates": 11,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Яблочные чипсы",
@@ -7323,7 +7323,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из креветок",
@@ -7332,7 +7332,7 @@
     "Fat": 5,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Стакан нежирного кефира",
@@ -7341,7 +7341,7 @@
     "Fat": 4,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Йогурт с ягодами",
@@ -7350,7 +7350,7 @@
     "Fat": 3,
     "Carbohydrates": 13,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Печеное яблоко",
@@ -7359,7 +7359,7 @@
     "Fat": 0,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Миндаль (14 орехов)",
@@ -7368,7 +7368,7 @@
     "Fat": 8,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Пита с мягким сыром",
@@ -7377,7 +7377,7 @@
     "Fat": 3,
     "Carbohydrates": 15,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Киви (1 средний плод)",
@@ -7386,7 +7386,7 @@
     "Fat": 0,
     "Carbohydrates": 14,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Борщ по-вегетариански",
@@ -7395,7 +7395,7 @@
     "Fat": 2,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Борщ со свежей капустой вегетарианский",
@@ -7404,7 +7404,7 @@
     "Fat": 2,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп вегетарианский",
@@ -7413,7 +7413,7 @@
     "Fat": 3,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный с фасолью",
@@ -7422,7 +7422,7 @@
     "Fat": 3,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп сырный",
@@ -7431,7 +7431,7 @@
     "Fat": 5,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп сырный с грибами",
@@ -7440,7 +7440,7 @@
     "Fat": 5,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный",
@@ -7449,7 +7449,7 @@
     "Fat": 1,
     "Carbohydrates": 9,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный с бобовыми",
@@ -7458,7 +7458,7 @@
     "Fat": 2,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный с грибами",
@@ -7467,7 +7467,7 @@
     "Fat": 1,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный с кальмарами",
@@ -7476,7 +7476,7 @@
     "Fat": 2,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Суп картофельный с крупой",
@@ -7485,7 +7485,7 @@
     "Fat": 1,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вегетарианские котлеты \"Мясные\"",
@@ -7494,7 +7494,7 @@
     "Fat": 10,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Вегетарианские котлеты из чечевицы",
@@ -7503,7 +7503,7 @@
     "Fat": 3,
     "Carbohydrates": 21,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Запеканка из цветной капусты",
@@ -7512,7 +7512,7 @@
     "Fat": 3,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль с грибами",
@@ -7521,7 +7521,7 @@
     "Fat": 7,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль с огурцами",
@@ -7530,7 +7530,7 @@
     "Fat": 5,
     "Carbohydrates": 10,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль с яблоками",
@@ -7539,7 +7539,7 @@
     "Fat": 3,
     "Carbohydrates": 36,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фасоль с черносливом",
@@ -7548,7 +7548,7 @@
     "Fat": 12,
     "Carbohydrates": 44,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фаршированный перец",
@@ -7557,7 +7557,7 @@
     "Fat": 0,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фаршированный лук",
@@ -7566,7 +7566,7 @@
     "Fat": 11,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фаршированные огурцы",
@@ -7575,7 +7575,7 @@
     "Fat": 9,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фаршированная кольраби",
@@ -7584,7 +7584,7 @@
     "Fat": 10,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Фальшивый заяц",
@@ -7593,7 +7593,7 @@
     "Fat": 16,
     "Carbohydrates": 0,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капуста квашеная со свининой (мульгикапсад)",
@@ -7602,7 +7602,7 @@
     "Fat": 10,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капуста тушеная",
@@ -7611,7 +7611,7 @@
     "Fat": 7,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Капуста квашеная тушеная",
@@ -7620,7 +7620,7 @@
     "Fat": 6,
     "Carbohydrates": 7,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат с Зеленью и Овощным Ассорти",
@@ -7629,7 +7629,7 @@
     "Fat": 0,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат овощной",
@@ -7638,7 +7638,7 @@
     "Fat": 7,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат Витаминный",
@@ -7647,7 +7647,7 @@
     "Fat": 8,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат диетология",
@@ -7656,7 +7656,7 @@
     "Fat": 2,
     "Carbohydrates": 2,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Веганские наггетсы Mallakto",
@@ -7665,7 +7665,7 @@
     "Fat": 3,
     "Carbohydrates": 62,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Веганский бургер Vegafood",
@@ -7674,7 +7674,7 @@
     "Fat": 13,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Веганские сосиски Vego Нежные",
@@ -7683,7 +7683,7 @@
     "Fat": 19,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Веганские пельмени Vegafood",
@@ -7692,7 +7692,7 @@
     "Fat": 9,
     "Carbohydrates": 36,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Веганские сосиски Vegafood Классические",
@@ -7701,7 +7701,7 @@
     "Fat": 9,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Веганские картофельные котлеты с рисом",
@@ -7710,7 +7710,7 @@
     "Fat": 2,
     "Carbohydrates": 16,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Щи веганские",
@@ -7719,7 +7719,7 @@
     "Fat": 1,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Хумус",
@@ -7728,7 +7728,7 @@
     "Fat": 10,
     "Carbohydrates": 36,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Рис бурый длиннозерный варёный",
@@ -7737,7 +7737,7 @@
     "Fat": 1,
     "Carbohydrates": 25,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Киноа варёная",
@@ -7746,7 +7746,7 @@
     "Fat": 1,
     "Carbohydrates": 21,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Чечевица варёная",
@@ -7755,7 +7755,7 @@
     "Fat": 0,
     "Carbohydrates": 20,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Тофу",
@@ -7764,7 +7764,7 @@
     "Fat": 5,
     "Carbohydrates": 1,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Авокадо",
@@ -7773,7 +7773,7 @@
     "Fat": 14,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Плантаны в свежем виде",
@@ -7782,7 +7782,7 @@
     "Fat": 0,
     "Carbohydrates": 31,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидор, огурцов и перца",
@@ -7791,7 +7791,7 @@
     "Fat": 0,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидор и огурцов со сметаной",
@@ -7800,7 +7800,7 @@
     "Fat": 4,
     "Carbohydrates": 3,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидор и огурцов с растительным маслом",
@@ -7809,7 +7809,7 @@
     "Fat": 7,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из помидор и огурцов с майонезом",
@@ -7818,7 +7818,7 @@
     "Fat": 15,
     "Carbohydrates": 4,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из свежей капусты с яблоками",
@@ -7827,7 +7827,7 @@
     "Fat": 0,
     "Carbohydrates": 6,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Квашенная капуста",
@@ -7836,7 +7836,7 @@
     "Fat": 0,
     "Carbohydrates": 5,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   },
   {
     "Title": "Салат из квашеной капусты и свеклы",
@@ -7845,6 +7845,6 @@
     "Fat": 0,
     "Carbohydrates": 8,
     "dateload": 1748552400,
-    "shared": false
+    "shared": true
   }
 ]
