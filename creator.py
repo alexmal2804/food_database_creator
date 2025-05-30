@@ -27,7 +27,7 @@ def get_real_food_data(api_key, category, count=100):
         )
         
         # Уменьшаем количество запрашиваемых продуктов для тестирования
-        count = min(count, 3)  # Еще уменьшаем для теста
+        count = min(count, 15)  # Еще уменьшаем для теста
         
         # Более простой промпт
         prompt = (
@@ -180,7 +180,7 @@ def generate_full_database(api_key, target_count=1500):
         try:
             print(f"\n{'='*50}\nОбработка категории: {category}")
             # Запрашиваем по 12 примеров для каждой категории
-            products = get_real_food_data(api_key, category, count=12)
+            products = get_real_food_data(api_key, category, count=15)
             new_count = 0
             
             for product in products:
