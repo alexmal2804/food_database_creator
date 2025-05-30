@@ -2,6 +2,7 @@ import openai
 import json
 import time
 import os
+import requests
 from datetime import datetime
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -46,25 +47,46 @@ def get_real_food_data(api_key, category, count=100):
             "4. Не добавляй никаких комментариев вне JSON"
         )
         
-        print(f"Отправка запроса для категории: {category}")
-        print(f"Промпт: {prompt[:100]}...")  # Выводим начало промпта для отладки
+        print(f"\n{'='*30} Отправка запроса API {'='*30}")
+        print(f"Категория: {category}")
+        print(f"Запрашиваемое количество: {count}")
+        print(f"API ключ: {api_key[:5]}...{api_key[-5:] if api_key else ''}")
+        print(f"Модель: {MODEL_NAME}")
+        print(f"Промпт: {prompt[:200]}..." if len(prompt) > 200 else f"Промпт: {prompt}")
         
-        try:
-            response = client.chat.completions.create(
-                model=MODEL_NAME,
-                messages=[
-                    {"role": "system", "content": "Ты помощник, который отвечает только в формате JSON."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.7,  # Немного увеличиваем температуру
-                max_tokens=1000
-            )
-        except Exception as api_error:
-            print(f"Ошибка API: {str(api_error)}")
-            print(f"Тип ошибки: {type(api_error).__name__}")
-            if hasattr(api_error, 'response'):
-                print(f"Ответ сервера: {api_error.response}")
-            raise
+        max_retries = 3
+        retry_delay = 5  # секунды
+        
+        for attempt in range(max_retries):
+            try:
+                start_time = time.time()
+                response = client.chat.completions.create(
+                    model=MODEL_NAME,
+                    messages=[
+                        {"role": "system", "content": "Ты помощник, который отвечает только в формате JSON."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0.7,
+                    max_tokens=1000,
+                    timeout=60  # таймаут 60 секунд
+                )
+                print(f"Запрос выполнен за {time.time() - start_time:.2f} секунд")
+                break
+            except requests.Timeout:
+                print(f"Таймаут запроса (попытка {attempt + 1}/{max_retries})")
+                if attempt == max_retries - 1:
+                    print("Достигнуто максимальное количество попыток. Пропускаем категорию.")
+                    return []
+                time.sleep(retry_delay)
+            except Exception as api_error:
+                print(f"Ошибка API (попытка {attempt + 1}/{max_retries}): {str(api_error)}")
+                print(f"Тип ошибки: {type(api_error).__name__}")
+                if hasattr(api_error, 'response'):
+                    print(f"Ответ сервера: {api_error.response}")
+                if attempt == max_retries - 1:
+                    print("Достигнуто максимальное количество попыток. Пропускаем категорию.")
+                    return []
+                time.sleep(retry_delay)
         
         print("Получен ответ от API")
         content = response.choices[0].message.content
@@ -179,7 +201,7 @@ def generate_full_database(api_key, target_count=1500):
     for category in categories:
         try:
             print(f"\n{'='*50}\nОбработка категории: {category}")
-            # Запрашиваем по 12 примеров для каждой категории
+            # Запрашиваем по 15 примеров для каждой категории
             products = get_real_food_data(api_key, category, count=15)
             new_count = 0
             
